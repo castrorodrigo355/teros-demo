@@ -1,0 +1,8 @@
+.sidebar--component--main--container {
+	height: 100%;
+	width: 100%;
+}
+
+.p-sidebar-left {
+	background: black !important;
+}

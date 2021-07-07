@@ -1,0 +1,14 @@
+.login--screen--main--container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+}
+
+.login--screen--main--container--inputs--link {
+	text-align: end;
+	margin: 5px 10px;
+	font-size: 14px;
+}

@@ -1,0 +1,12 @@
+.route--main--container {
+	color: white;
+	font-style: italic;
+	padding: 0 10px;
+	margin: 0 10px;
+	cursor: pointer;
+	display: none;
+}
+
+.route--main--container.visible--route {
+	display: block;
+}
